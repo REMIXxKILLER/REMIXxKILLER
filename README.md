@@ -1,16 +1,4 @@
-![image](https://github.com/user-attachments/assets/c2067f47-f6fd-46f0-b7a5-e33c41c3a1e7)
-
-
-
-- 👋 Hi, I’m @REMIXxKILLER!
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-REMIXxKILLER/REMIXxKILLER is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![](https://visitcount.itsvg.in/api?id=REMIXxKILLER&label=Profile%20Views&icon=1&pretty=false)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=REMIXxKILLER&label=Profile%20Views&icon=1&pretty=false" />
+</a>
