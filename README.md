@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @REMIXxKILLER
+![image](https://github.com/user-attachments/assets/c2067f47-f6fd-46f0-b7a5-e33c41c3a1e7)
+
+
+
+- 👋 Hi, I’m @REMIXxKILLER!
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ... Web Development
 - 💞️ I’m looking to collaborate on ...
